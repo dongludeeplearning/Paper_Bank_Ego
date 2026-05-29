@@ -34,5 +34,6 @@ pdfs/               # Local PDF copies
 
 ## Adding a Paper
 
-1. Create `subpages/<id>.html` following the style of an existing subpage.
-2. Add an entry to the `PAPERS` array in `index.html` with the fields: `id`, `abbr`, `year`, `note`, `path`, `arxiv`, `pdf`, `topic`, `subtopic`.
+在 Claude 或 Codex 中直接说：
+
+> 根据以上模版，给我增加以下论文总结：`<论文名称 / arXiv 链接>`
